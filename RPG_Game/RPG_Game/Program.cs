@@ -6,16 +6,7 @@
         void Equip();
         void Unequip();
     }
-    public abstract class Character
-    {
-        private string _name;
-        private int _health;
-        private int _maxHealth;
-        private int _strenght;
-        private int _agility;
-        private int _intellegence;
-        private int _luck;
-    }
+
 
     internal class Program
     {
