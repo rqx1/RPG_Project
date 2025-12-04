@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Git\\RPG_Project\\RPG_Game\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{725AD894-02CC-47B6-A0C1-0550379E3663}|RPG_Game\\RPG_Game.csproj|c:\\git\\rpg_project\\rpg_game\\rpg_game\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725AD894-02CC-47B6-A0C1-0550379E3663}|RPG_Game\\RPG_Game.csproj|solutionrelative:rpg_game\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{725AD894-02CC-47B6-A0C1-0550379E3663}|RPG_Game\\RPG_Game.csproj|c:\\git\\rpg_project\\rpg_game\\rpg_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{725AD894-02CC-47B6-A0C1-0550379E3663}|RPG_Game\\RPG_Game.csproj|solutionrelative:rpg_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Git\\RPG_Project\\RPG_Game\\RPG_Game\\Character.cs",
+              "RelativeDocumentMoniker": "RPG_Game\\Character.cs",
+              "ToolTip": "C:\\Git\\RPG_Project\\RPG_Game\\RPG_Game\\Character.cs",
+              "RelativeToolTip": "RPG_Game\\Character.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:01:55.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Git\\RPG_Project\\RPG_Game\\RPG_Game\\Program.cs",
               "RelativeDocumentMoniker": "RPG_Game\\Program.cs",
               "ToolTip": "C:\\Git\\RPG_Project\\RPG_Game\\RPG_Game\\Program.cs",
               "RelativeToolTip": "RPG_Game\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T10:38:10.212Z",
               "EditorCaption": ""
