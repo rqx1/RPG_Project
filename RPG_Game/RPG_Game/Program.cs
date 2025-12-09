@@ -2,7 +2,6 @@
 
 namespace RPG_Game
 {
-
     public class Player
     {
 
